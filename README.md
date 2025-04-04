@@ -1,6 +1,6 @@
 # 🎮 RAWG Game App
 
-A React-based video game discovery app using the [RAWG Video Games Database API](https://rawg.io/apidocs). Users can explore trending games, view detailed game info, and manage their personal game library.
+A React-based video game discovery app using the [RAWG Video Games Database API](https://rawg.io/apidocs). Users can explore trending games, view detailed game info, and manage their personal game library.n
 
 ---
 
