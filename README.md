@@ -15,5 +15,4 @@ A React-based video game discovery app using the [RAWG Video Games Database API]
 
 ---
 
-## 📁 Project Structure
-
+ 
